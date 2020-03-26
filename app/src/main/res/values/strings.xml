@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Albescence</string>
+    <string name="themenu">Menu</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <string name="lyrics">Songs</string>
+    <string name="where_are_we">Where are we?</string>
+    <string name="settings">Settings</string>
+</resources>

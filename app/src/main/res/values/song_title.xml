@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="song_titles">
+        <item>Sunrise</item>
+        <item>The Climber</item>
+        <item>Revenger</item>
+        <item>Stolen Crown</item>
+        <item>Escape the Sunshine</item>
+        <item>Fears of a Mad Realist?</item>
+        <item>Fading Away</item>
+        <item>The Pain Inside</item>
+        <item>Decayed</item>
+        <item>Lightened Hell</item>
+        <item>On the Styx</item>
+        <item>The Last World</item>
+        <item>Sunset</item>
+
+
+    </string-array>
+</resources>
